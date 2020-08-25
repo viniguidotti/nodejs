@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "fs-sync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -11,25 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/viniguidotti/nodejs.git"
   },
-  "keywords": [
-    "nodejs",
-    "npm",
-    "express",
-    "fs",
-    "path",
-    "url",
-    "mongodb",
-    "udp",
-    "krypto"
-  ],
-  "author": "Vinicius Guidotti",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/viniguidotti/nodejs/issues"
   },
-  "homepage": "https://github.com/viniguidotti/nodejs#readme",
-  "dependencies": {
-    "learnyounode": "^4.2.2",
-    "nodemon": "^2.0.4"
-  }
+  "homepage": "https://github.com/viniguidotti/nodejs#readme"
 }
